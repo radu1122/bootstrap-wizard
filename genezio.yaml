@@ -1,0 +1,7 @@
+name: bootstrap-wizard
+region: us-east-1
+yamlVersion: 2
+frontend:
+    path: .
+    publish: .
+    subdomain: bootstrap-wizard
